@@ -37,4 +37,9 @@
     <!-- Age format -->
     <string name="years_old">%d лет</string>
 
+    <!-- Button -->
+    <string name="expand_button_content_description">Развернуть или свернуть</string>
+
+    <!-- О студенте -->
+    <string name="about">О студенте</string>
 </resources>
