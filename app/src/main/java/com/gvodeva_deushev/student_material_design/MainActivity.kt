@@ -77,8 +77,7 @@ fun StudentInformation(
             style = MaterialTheme.typography.displayMedium
         )
         Text(
-            text = stringResource(R.string.years_old,
-                studentAge),
+            text = stringResource(R.string.years_old,studentAge),
             style = MaterialTheme.typography.bodyLarge
         )
     }
